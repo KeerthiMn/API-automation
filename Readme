@@ -26,6 +26,9 @@ Ans: Using Form Parameters /Body Payload
 
 PUT- Replaces all current representations of the target resource with the uploaded content.
 
+https://rahulshettyacademy.com/#/index
+
+
 DELETE- Removes all current representations of the target resource given by a URI.
 
 Resources:
