@@ -2,3 +2,9 @@ API automation
 
 Application Programming interface
 
+CRUD operations :
+C - Create - POST
+R - Retrieve - get
+U - Update - put
+D - Delete - delete
+
